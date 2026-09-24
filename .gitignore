@@ -1,0 +1,7 @@
+node_modules/
+.next/
+out/
+_design/
+.DS_Store
+Thumbs.db
+desktop.ini
