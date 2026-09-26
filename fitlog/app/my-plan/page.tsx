@@ -34,7 +34,7 @@ function PlanCard({
 
   return (
     <article
-      className={`flex flex-col gap-4 rounded-2xl border border-line-2 bg-[#14171e] p-4 sm:flex-row sm:items-center sm:justify-between ${
+      className={`flex flex-col gap-4 rounded-2xl border border-line-2 bg-[#14171e] p-4 transition-colors hover:border-line-5 sm:flex-row sm:items-center sm:justify-between ${
         done ? "opacity-60" : ""
       }`}
     >
