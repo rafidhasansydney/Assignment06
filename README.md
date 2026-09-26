@@ -2,6 +2,8 @@
 
 A dark, no-nonsense gym companion built with Next.js. Browse a library of twelve lifts, lock them into today's plan, save the ones you want to come back to, and watch the day's work add up.
 
+The app lives in the `fitlog/` folder. `Requirements.md`, `UI/` and `assets/` are the assignment brief and design files it was built from.
+
 **Live:** https://assignment06-ecru.vercel.app
 **Repository:** https://github.com/rafidhasansydney/Assignment06
 
@@ -28,6 +30,7 @@ A dark, no-nonsense gym companion built with Next.js. Browse a library of twelve
 ## Getting Started
 
 ```bash
+cd fitlog
 npm install
 npm run dev
 ```
