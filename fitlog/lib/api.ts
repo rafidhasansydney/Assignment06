@@ -1,6 +1,6 @@
 import type { Workout } from "./types";
 
-const BASE_URL = "https://api.abcz.workers.dev/api/fitlog";
+const BASE_URL = "https://api.api-store.workers.dev/api/fitlog";
 
 export async function getWorkouts(): Promise<Workout[]> {
   const res = await fetch(BASE_URL, { cache: "no-store" });

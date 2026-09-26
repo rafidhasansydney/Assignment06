@@ -13,7 +13,7 @@ The app lives in the `fitlog/` folder. `Requirements.md`, `UI/` and `assets/` ar
 - **TypeScript** — type-safe components and API data
 - **Tailwind CSS** — styling, theming and responsive layout
 - **lucide-react** — icon set used across the UI
-- **FitLog API** — workout data (`https://api.abcz.workers.dev/api/fitlog`)
+- **FitLog API** — workout data (`https://api.api-store.workers.dev/api/fitlog`)
 
 ## Features
 
